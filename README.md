@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Michael (aka Michas).<br>Currently on my way to become a Web Developer.<br> <img src="https://cdn.discordapp.com/attachments/542003250380013590/1034260196953956352/unknown.png" alt="discord b&w logo" height="50"></p>
+<p align="left">I'm Michael (aka Michas).<br>Currently on my way to become a Web Developer.<br> <img src="https://cdn.discordapp.com/attachments/542003250380013590/1034260196953956352/unknown.png" alt="discord b&w logo" height="25"> Michas#1608</p>
 
 ###
 
