@@ -31,4 +31,4 @@
 
 > [!IMPORTANT]
 > This user is a cat, coffee & code enthusiast.
-> <!-- share the word -->
+> <!-- spread the word -->
