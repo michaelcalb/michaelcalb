@@ -30,5 +30,5 @@
 </div>
 
 > [!IMPORTANT]
-> This user is a cat, coffee & code enthusiast.
+> This user is a cats, coffee & code enthusiast.
 > <!-- spread the word -->
