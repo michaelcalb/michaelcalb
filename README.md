@@ -22,8 +22,8 @@
     "age": 19,
     "aka": [
         "michaelcalb",
-        "michas"
-        "michael0509",
+        "michas",
+        "michael0509"
     ]
   }
   ```
