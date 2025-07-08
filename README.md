@@ -23,8 +23,8 @@
     "aka": [
         "michaelcalb",
         "michas",
-        "michael0509"
-    ]
+        "michael0509",
+    ],
   }
   ```
 </div>
