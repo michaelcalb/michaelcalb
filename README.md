@@ -15,7 +15,7 @@
 <br>
 <div>
 
-  <img src="https://github.com/user-attachments/assets/c58d8e11-a8ce-41cb-9796-70ed69d991a1" alt="kaoruko-waguri" height=500 align="right">
+  <img src="https://github.com/user-attachments/assets/c58d8e11-a8ce-41cb-9796-70ed69d991a1" alt="kaoruko-waguri" height=490 align="right">
   
   ```json
   {
