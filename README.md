@@ -22,7 +22,7 @@
     "michas": {
         "title": "Aspiring Full-Stack Dev",
         "education": "Computer Science - 4th semester",
-        "lookingForJob": true,
+        "hireable": true,
         "age": 19,
         "AKA": [
             "michaelcalb",
